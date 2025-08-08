@@ -8,7 +8,7 @@ function App() {
       <header>
         <h1>Weather App Demo</h1>
         <p>
-          Ann app that fetches the weather from an API. Two concepts we will
+          An app that fetches the weather from an API. Two concepts we will
           cover are useState and useEffect.
         </p>
       </header>
